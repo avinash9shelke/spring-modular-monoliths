@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ModularModulithApplication {
+public class ModularModulithsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ModularModulithApplication.class, args);
+		SpringApplication.run(ModularModulithsApplication.class, args);
 	}
 
 }
